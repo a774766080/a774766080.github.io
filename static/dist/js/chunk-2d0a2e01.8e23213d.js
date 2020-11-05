@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0a2e01"],{"007b":function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v("视频")])},c=[],u={name:"VideoIndex"},i=u,o=t("2877"),r=Object(o["a"])(i,a,c,!1,null,"6f1384a6",null);n["default"]=r.exports}}]);
+//# sourceMappingURL=chunk-2d0a2e01.8e23213d.js.map
